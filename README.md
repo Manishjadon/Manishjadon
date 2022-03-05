@@ -1,4 +1,11 @@
+<p align = "center"> 
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/pen-doretti-nicholas-dribble.gif" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+
+
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
 - 🔭 I’m currently doing **DSA**
